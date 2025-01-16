@@ -1,0 +1,1 @@
+/project/catz0539/1_linux/3_analysis/1_fastqc/slurm_template.sh
